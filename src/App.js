@@ -1,3 +1,5 @@
+//feature1
+
 import logo from './logo.svg';
 import './App.css';
 
@@ -8,7 +10,7 @@ function App() {
         <a href="/">React shopping Cart</a>
       </header>
      <main>MAIN PRODUCT</main>
-     <footer>All rights is reserved</footer>
+     <footer>All rights is reserved.</footer>
     </div>
   );
 }
